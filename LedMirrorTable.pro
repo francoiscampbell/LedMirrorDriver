@@ -1,4 +1,4 @@
-update=Monday, January 04, 2016 'amt' 08:30:53 am
+update=Monday, January 04, 2016 'amt' 10:17:49 am
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,3 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+LibName30=/Users/francois/GoogleDrive/Electronics/KiCad/converted-eagle-libs/SparkFun-Connectors
